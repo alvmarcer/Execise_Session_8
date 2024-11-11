@@ -1,0 +1,9 @@
+5.
+git add "White snow.txt"
+git commit -m "Commit for step 5"
+git push
+
+6.
+git add "New file 2.txt"
+git commit -m "Commit for step 6"
+git push
